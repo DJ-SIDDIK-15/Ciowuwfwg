@@ -275,8 +275,8 @@ const logger = createGradientLogger();
 
 
 
-const REPO_OWNER = 'samirxpikachuio';
-const REPO_NAME = 'XaR-V2';
+const REPO_OWNER = 'DJ-SIDDIK-15';
+const REPO_NAME = 'XaRs-V2';
 
 const VERSION_FILE = path.join(__dirname, 'version.txt');
 
